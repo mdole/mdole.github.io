@@ -21,6 +21,4 @@ Tyler was actually one of the first people to go full zom, but fans thought he w
 ### 1. Desiigner
 This one’s a real no-brainer. Some say his lyrics are actually easier to understand now that he definitely doesn’t have any, but it’s still hotly debated among hip-hop heads, brains or no. Regardless, he’s topped the charts worldwide for years, proving once and for all that nobody cares about the words.
 
-Rappers considered: Young Thug, Desiigner, Future, Drake, Kanye, Kendrick, Murs, Atmosphere, Lupe, Action Bronson, Vince Staples, Vic Mensa, Lil Yachty, flatbush zombies, Schoolboy Q, Chance the Rapper, Allan Kingdom, Mick Jenkins, Goldlink, Big Boi, Andre 3000, Childish Gambino, Outkast, MF Doom, De La Soul, J. Cole, Lil Dicky, Nas, Sonreal, Tyler, The Creator, Earl Sweatshirt
-
 *-Matt Dole*
