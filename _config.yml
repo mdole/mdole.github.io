@@ -7,12 +7,12 @@
 
 # Site settings
 title: The Zombie Apocalypse Survival Guide
-email: your-email@domain.com
+email: zompocalypsesurvivalguide@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Everything you need to know about the finer points of life after the zombies arrive.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mdole.github.io" # the base hostname & protocol for your site
-twitter_username: pinadoleada
+twitter_username:
 github_username:  mdole
 
 # Build settings
