@@ -48,6 +48,7 @@
     }
 
     @include media-query($on-palm) {
+        display: none;
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
